@@ -1,0 +1,13 @@
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\bin\Debug\netcoreapp3.1\ConsoleTestApp1.exe
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\bin\Debug\netcoreapp3.1\ConsoleTestApp1.deps.json
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\bin\Debug\netcoreapp3.1\ConsoleTestApp1.runtimeconfig.json
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\bin\Debug\netcoreapp3.1\ConsoleTestApp1.runtimeconfig.dev.json
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\bin\Debug\netcoreapp3.1\ConsoleTestApp1.dll
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\bin\Debug\netcoreapp3.1\ConsoleTestApp1.pdb
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.AssemblyInfo.cs
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.dll
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.pdb
+C:\Users\Acer\Documents\Dot Net\ConsoleTestApp1\obj\Debug\netcoreapp3.1\ConsoleTestApp1.genruntimeconfig.cache
